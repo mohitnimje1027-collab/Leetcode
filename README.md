@@ -7,10 +7,12 @@
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3525-find-x-value-of-array-ii](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Segment Tree
 |  |
 | ------- |
