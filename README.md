@@ -20,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
@@ -33,4 +34,24 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## String
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
