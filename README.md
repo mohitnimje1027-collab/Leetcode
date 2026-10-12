@@ -13,6 +13,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3525-find-x-value-of-array-ii](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +118,7 @@
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
 | ------- |
@@ -135,4 +139,5 @@
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
