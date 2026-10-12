@@ -10,6 +10,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3525-find-x-value-of-array-ii](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
@@ -27,6 +28,7 @@
 | [1096-brace-expansion-ii](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -128,4 +131,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
