@@ -20,6 +20,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
 |  |
 | ------- |
