@@ -19,6 +19,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -107,6 +108,7 @@
 | [1096-brace-expansion-ii](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [1254-number-of-closed-islands](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +189,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -210,4 +214,5 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohitnimje1027-collab/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
